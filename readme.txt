@@ -14,3 +14,6 @@
 
 注意： 请确保您安装了 JavaSE 1.6 或更高版本，tomcat下运行项目需要先删除 jetty-server-xxx.jar，否则会有冲突
 
+6:如果用idea则需要看我的blog文章,idea部署tomcat上启动
+https://blog.csdn.net/aaaadong/article/details/82493583
+
