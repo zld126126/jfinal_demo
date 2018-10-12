@@ -17,3 +17,13 @@
 6:如果用idea则需要看我的blog文章,idea部署tomcat上启动
 https://blog.csdn.net/aaaadong/article/details/82493583
 
+7.自动生成
+/jfinal_demo/src/com/demo/common/model/_JFinalDemoGenerator.java
+运行就可以
+
+8.启动问题
+/jfinal_demo/src/com/demo/common/DemoConfig.java
+运行或者直接部署在tomcat上即可
+
+8.启动
+
